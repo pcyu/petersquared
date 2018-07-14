@@ -6,7 +6,7 @@
     git remote set-url origin git@github.com:pcyu/repohere.git 
 
     git remote rm heroku
-    git remote add heroku git@github.com:pcyu/repohere.git
+    git remote add heroku git@heroku.com:pcyu/repohere.git
 
 Peter Yu's personal React Boilerplate Code.
 
