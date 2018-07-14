@@ -27,6 +27,7 @@
     "webpack-dev-server": "2.5.1"
   },
   "scripts": {
+    "push": "git push && git push heroku master",
     "start": "node server/server.js",
     "heroku-postbuild": "yarn run build:prod",
     "server": "live-server public/",
