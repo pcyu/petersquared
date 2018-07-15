@@ -1,13 +1,3 @@
-# Git Commands
+# Peter Squared
 
-* Change the remote repository url and the heroku remote url.
-
-    git remote -v
-    git remote set-url origin git@github.com:pcyu/repohere.git 
-
-    git remote rm heroku
-    git remote add heroku git@heroku.com:pcyu/repohere.git
-
-Peter Yu's personal React Boilerplate Code.
-
-Able to deploy to heroku easily.
+Peter Kim and Peter Yu's tribute to Zyzz.  We're all gonna make it brah.
